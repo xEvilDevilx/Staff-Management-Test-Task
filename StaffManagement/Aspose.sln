@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.StaffManagement", "Aspose.StaffManagement\Aspose.StaffManagement.csproj", "{52F54A8B-39C7-450A-AE23-369EA72FFF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.StaffManagement.Tests", "Aspose.StaffManagement.Tests\Aspose.StaffManagement.Tests.csproj", "{EA66E751-E341-4B72-BC70-6A7CCF1FF42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F54A8B-39C7-450A-AE23-369EA72FFF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F54A8B-39C7-450A-AE23-369EA72FFF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F54A8B-39C7-450A-AE23-369EA72FFF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F54A8B-39C7-450A-AE23-369EA72FFF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA66E751-E341-4B72-BC70-6A7CCF1FF42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA66E751-E341-4B72-BC70-6A7CCF1FF42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA66E751-E341-4B72-BC70-6A7CCF1FF42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA66E751-E341-4B72-BC70-6A7CCF1FF42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A055EFDF-209F-4E52-9993-5DE9D30EC5A2}
+	EndGlobalSection
+EndGlobal
